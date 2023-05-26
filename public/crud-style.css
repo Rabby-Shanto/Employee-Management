@@ -1,0 +1,50 @@
+.main_row                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 {
+    justify-content: center !important;
+    align-items: center !important;
+    margin-top: 150px;
+}
+
+body{
+    background: #FBAB7E;
+}
+
+.card{
+    box-shadow:  inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+    opacity: 0.9;
+}
+
+table{
+    text-align: center;
+}
+
+.btn{
+
+    border-radius: 1rem;
+    padding: 8px !important;
+}
+
+.custom-shape-divider-top-1684559122 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1684559122 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 186px;
+}
+
+.custom-shape-divider-top-1684559122 .shape-fill {
+    fill: #3A1D1D78;
+}
+
+#myModal{
+    border-radius: 5px;
+
+}
